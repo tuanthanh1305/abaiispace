@@ -29,12 +29,12 @@ const App: React.FC = () => {
           </div>
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight text-slate-900">
             <span className="bg-gradient-to-br from-aba-blue to-aba-green bg-clip-text text-transparent">
-              ABAII SPACE
+              ABAII EDUCATION SPACE
             </span>
           </h1>
           <div className="mt-4 max-w-3xl mx-auto text-lg text-slate-600">
             <p>
-              Không gian với những dự án tổng hợp về AI và Blockchain miễn phí Vì cộng đồng, nhằm phổ cập AI & Blockchain đến hơn 1 triệu người dân Việt Nam.
+              Nền tảng với những dự án hỗ trợ Đào tạo về AI và Blockchain miễn phí vì cộng đồng, nhằm phổ cập AI & Blockchain đến mọi người dân Việt Nam.
             </p>
             <p className="mt-3 font-medium text-slate-700 text-sm sm:text-base">
               Được phát triển, vận hành và bảo trợ bởi Viện Công nghệ Blockchain và Trí tuệ nhân tạo ABAII
